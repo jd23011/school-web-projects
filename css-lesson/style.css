@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+
+#text1 {
+    color: rgb(95, 95, 95);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#nixLogo {
+    height: 95vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
