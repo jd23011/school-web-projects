@@ -19,6 +19,10 @@
     width: 15vw;
 }
 
+.paddingBottom {
+    padding-bottom: 40px;
+}
+
 hr {
     border-color: lightgrey;
     width: 30%;
